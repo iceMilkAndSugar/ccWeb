@@ -6,5 +6,5 @@
 
 ## ②`add Server`的时候我们要修改`webapp`的目录 方便后面的测试\(文件上传下载等\)
 
-![1542638316445](../.gitbook/assets/tomcat2.png)
+![](../.gitbook/assets/tomcat2.png)
 

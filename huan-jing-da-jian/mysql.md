@@ -2,5 +2,5 @@
 
 ## ①导入`sql`文件后看下有没有新的数据库创建\(比赛的时候应该是帮我们弄好的注意查看\)
 
-![1542638824602](../.gitbook/assets/jdbc.png)
+![](../.gitbook/assets/navicat.png)
 

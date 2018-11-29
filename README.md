@@ -1,14 +1,24 @@
-# 更新记录
+# 云计算开发WEB
 
-#### `v0.0.1`  
+## 0.0.1 - 2019-11-29
 
-#### 时间：**2018-11-17**
+### Fixed
 
-#### 更新内容 ：
+* Removed humans, they weren't doing fine with animals.
 
-#### 		创建环境搭建
+### Changed
 
-#### **修订人 `youjp`**
+* Animals are now super cute, all of them.
 
----
+## 0.0.1 - 2019-11-17
+
+### 添加
+
+* 环境搭建
+
+### 修订人
+
+* youjp
+
+
 

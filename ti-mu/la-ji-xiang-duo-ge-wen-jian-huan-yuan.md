@@ -44,8 +44,6 @@ function cancel(){
 这里有个`sure()`和`cancel()`是为了如下的效果
 {% endhint %}
 
-![](../.gitbook/assets/rename.gif)
-
 
 
 ![](https://github.com/iceMilkAndSugar/ccWeb/raw/master/.gitbook/assets/rename.gif)

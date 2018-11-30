@@ -41,7 +41,7 @@ function cancel(){
 ```
 
 {% hint style="info" %}
-这里有个`sure()`和`cancel()`是为了如下的效果\
+这里有个`sure()`和`cancel()`是为了如下的效果
 {% endhint %}
 
 ![](../.gitbook/assets/rename.gif)

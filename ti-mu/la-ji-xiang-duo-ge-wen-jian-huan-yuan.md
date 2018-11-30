@@ -46,6 +46,10 @@ function cancel(){
 
 ![](../.gitbook/assets/rename.gif)
 
+
+
+![](https://github.com/iceMilkAndSugar/ccWeb/raw/master/.gitbook/assets/rename.gif)
+
 ## `StorageController.java`
 
 ```java

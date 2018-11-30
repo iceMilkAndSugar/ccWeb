@@ -32,8 +32,6 @@
 	}
 ```
 
-\`
-
 ## `StorageController.java`
 
 ```java
@@ -50,6 +48,16 @@ boolean success = swiftStorageService.newDir(
 		user.getUsername(),path, name);
 return new MessageBean(success , 
 		success?Constants.SUCCESS_3:Constants.ERROR_4);
+}
+```
+
+
+
+## `SwfitService.java`
+
+```java
+public boolean newDir(String username, String path, String name) {
+		return  new SwiftDFS().createDir(username, path+name+"/");
 }
 ```
 

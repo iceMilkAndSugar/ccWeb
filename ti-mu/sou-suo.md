@@ -11,11 +11,6 @@ description: 搜索的jsp直接套main就行了
 ```java
 /**
  * 搜索
- * 
- * @param request
- * @param response
- * @param path
- * @return
  */
 @RequestMapping("/search")
 public ModelAndView search(HttpServletRequest request,
@@ -36,11 +31,6 @@ public ModelAndView search(HttpServletRequest request,
 ```java
 /**
  * 搜索
- * 
- * @param request
- * @param response
- * @param path
- * @return
  */
 @RequestMapping("/search")
 public ModelAndView search(HttpServletRequest request,

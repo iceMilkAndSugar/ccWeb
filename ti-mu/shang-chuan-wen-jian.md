@@ -4,7 +4,7 @@ description: 项目默认帮我们实现了上传到tomcat的目录下 我们要
 
 # 2.上传文件
 
-## `main.js`
+## `main.jsp`
 
 ```javascript
 $.ajax({

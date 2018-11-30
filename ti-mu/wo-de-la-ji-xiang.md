@@ -10,10 +10,10 @@
 ```
 
 {% hint style="info" %}
- 我们要在`jsp`的目录新建一个`garbage.jsp`的新文件来对应请求内容和main.jsp一样
+ 我们要在`jsp`的目录新建一个`garbage.jsp`的新文件来对应请求，内容和main.jsp大致一样只需要修改功能按钮就好
 {% endhint %}
 
-![](../.gitbook/assets/garbage.png)
+![](../.gitbook/assets/garbage2.png)
 
 ## `StorageController.java`
 

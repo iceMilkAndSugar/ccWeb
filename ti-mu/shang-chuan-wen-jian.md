@@ -1,7 +1,3 @@
----
-description: 项目默认帮我们实现了上传到tomcat的目录下 我们要做的就是把tomcat的文件上传到swift上
----
-
 # 2.上传文件
 
 ## `main.jsp`

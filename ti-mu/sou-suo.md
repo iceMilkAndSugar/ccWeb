@@ -1,7 +1,3 @@
----
-description: 搜索的jsp直接套main就行了
----
-
 # 5.搜索
 
 ## `main.jsp`
